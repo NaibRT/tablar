@@ -1,0 +1,4 @@
+.aside-nav-container>.nav-item {
+ border-bottom: 1px solid lightgray;
+ height: 50px;
+}
